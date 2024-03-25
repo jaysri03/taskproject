@@ -1,0 +1,117 @@
+.navbar{
+  
+    background-color: chartreuse;
+  
+}
+
+.container{
+    position: relative;
+    bottom: 400px;
+    overflow: hidden;
+    bottom:300px;
+}
+.nav{
+    position: relative;
+    left: 20px;
+    top: 15px;
+}
+.fa-facebook{
+   position: relative;
+    left:800px;
+}
+.fa-instagram{
+    position: relative;
+     left:805px;
+ }
+ .fa-twitter {
+    position: relative;
+     left:810px;
+ }
+ .fa-linkedin{
+    position: relative;
+     left:815px;
+ }
+.fa-phone{
+    position: relative;
+    left: 6px;
+}
+.fa-globe{
+    position: relative;
+ right: 2px;
+}
+
+ul{
+    position: relative;
+    bottom: 640px;
+    left: 800px;
+    display: flex;
+
+}
+li{
+    list-style: none;
+    margin-left: 20px;
+    
+}
+li a{
+    color:black ;
+    font-size: 20px;
+}
+h1{
+   
+    position: relative;
+    bottom: 590px;
+    left: 40px;
+    
+}
+h2{
+    font-size: 20px;
+    position: relative;
+    bottom: 500px;
+    left: 250px;
+   
+}
+h3{
+    font-size: large;
+    position: relative;
+    bottom: 500px;
+    left: 280px;
+}
+p{
+    position: relative;
+    bottom: 500px;
+    left: 250px  
+}
+.btn-success{
+    position: relative;
+    bottom: 480px;
+    left: 350px;
+    border-radius: 20px;
+    padding:5px;
+}
+.containertwo{
+    overflow:hidden;
+  bottom: 1000px;
+}
+ 
+h5{
+    position: relative;
+    left: 500px;
+    bottom: 10px;
+}
+legend{
+    text-align: center;
+}
+.containerone{
+    background-color: chartreuse;
+}
+.btn-primary{
+position: relative;
+left: 600px;
+}
+
+
+
+
+
+
+    
